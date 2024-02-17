@@ -1,4 +1,4 @@
-public class Passenger {
+/*public class Passenger {
     
     private String name;
 
